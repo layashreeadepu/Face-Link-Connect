@@ -36,39 +36,5 @@ Event organizers aim to enhance attendee experiences to boost engagement and att
 ### How Face Link Connect Stands Out
 Unlike existing solutions, Face Link Connect provides **person-to-person connectivity via facial recognition**, eliminating reliance on QR codes, digital business cards, or manual entry. The platform enhances security and ensures instant, accurate, and privacy-compliant networking experiences.
 
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/facelink-connect.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd facelink-connect
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt  # If using Python
-   npm install  # If using JavaScript frameworks
-   ```
-4. Run the application:
-   ```sh
-   python app.py  # For Python-based implementation
-   npm start  # For JavaScript-based implementation
-   ```
-
-## Contribution Guidelines
-We welcome contributions to enhance Face Link Connect. Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-branch-name`).
-3. Commit your changes with descriptive messages.
-4. Push your branch and create a pull request.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For questions or collaborations, reach out via [your email] or create an issue in this repository.
-
----
-Face Link Connect: Redefining Networking with Facial Recognition Technology!
-
